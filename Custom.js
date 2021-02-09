@@ -25,7 +25,7 @@ function SearchResult(){
                                                                 </div>
                                                                </div>`
 
-      if (i>=4) {
+      if (i>=9) {
        break
       }                                                           
     }
